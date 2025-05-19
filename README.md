@@ -11,7 +11,8 @@ A Django REST Framework API that processes user data from CSV files, validates t
 
 ## Installation
 
-1. Extract the provided ZIP file to your desired location / Clone the repository:
+1. Extract the provided ZIP file to your desired location:
+Task_1.zip and open folder
 
 2. Create a virtual environment and activate it:
 python -m venv env
