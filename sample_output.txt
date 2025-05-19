@@ -1,0 +1,38 @@
+{
+    "successful_records": 4,
+    "rejected_records": 4,
+    "errors": [
+        {
+            "row": 4,
+            "errors": {
+                "email": [
+                    "Enter a valid email address."
+                ]
+            }
+        },
+        {
+            "row": 5,
+            "errors": {
+                "age": [
+                    "Age must be an integer between 0 and 120"
+                ]
+            }
+        },
+        {
+            "row": 6,
+            "errors": {
+                "name": [
+                    "This field may not be blank."
+                ]
+            }
+        },
+        {
+            "row": 9,
+            "errors": {
+                "email": [
+                    "user with this email already exists."
+                ]
+            }
+        }
+    ]
+}
